@@ -9,4 +9,10 @@
 <p align="center">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristophervmendoza-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristophervmendoza&theme=radical&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DC2626&sideLabels=FFFFFF&dates=888888" alt="Cristopher's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cristophervmendoza&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
